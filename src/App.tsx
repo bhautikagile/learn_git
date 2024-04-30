@@ -10,7 +10,6 @@ function App() {
       <BrowserRouter>
         <GlobalStyle />
         <Routing />
-        // This file was changed on git repo
       </BrowserRouter>
     </ThemeConfig>
   )
